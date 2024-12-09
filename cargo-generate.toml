@@ -1,0 +1,4 @@
+[template]
+
+[placeholders]
+account_id = { prompt = "Enter your account id", type = "string" }

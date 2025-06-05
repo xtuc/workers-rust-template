@@ -1,4 +1,5 @@
 [template]
+exclude = ["*.png", "*.ico"]
 
 [placeholders]
 account_id = { prompt = "Enter your account id", type = "string" }
